@@ -21,5 +21,4 @@ resource "aws_instance" "carlos" {
  
   ami = ""
 }
-#les enfants
-bienvenu
+
